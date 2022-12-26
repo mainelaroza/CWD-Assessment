@@ -1,0 +1,86 @@
+.main-header {
+    background: url(../images/background1.jpg);
+    min-height: 650px;
+    background-size: cover;
+    background-position: center;
+}
+.front-text {
+    font-family:'Ink free';
+}
+.quote {
+    font-family: 'lucida handwriting';
+    text-align: center;
+}
+.browse {
+    font-family: 'Verdana';
+}
+.navbar-brand {
+    font-size: large;
+}
+.nav-mobile {
+    font-size: large;
+}
+.main-header2 {
+    background: url(../images/background1.jpg);
+    min-height: 650px;
+    background-size: cover;
+    background-position: center;
+}
+.account {
+    font-family: 'ink free';
+    color: purple;
+}
+.frame {
+    background: url(../images/background7.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.carns {
+    text-indent: 50px;
+    text-justify: inter-word;
+    color: white;
+}
+.fname {
+    font-family: 'lucida handwriting';
+    text-align: left;
+}
+.sent {
+    color: purple;
+}
+.terms {
+    font-family: 'lucida handwriting';
+    text-align: left;
+    color: purple;
+}
+
+.cart-container{
+    width: 95%;
+    height: 95%;
+    background-color: #f7edfc;
+    border-radius: 20px;
+    box-shadow: 0px 25px 40px #6e366533;
+}
+
+.shopee {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #dc94f8, #a64fba);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:10%;
+    border-radius: 20px;
+}
+.action {
+    text-align: right;
+    margin-top: 100px;
+    font-family: 'ink free';
+}
+.carttitle {
+    text-align: left;
+    margin-top: 80px;
+    font-family: 'ink free';
+    color: purple;
+}
+
